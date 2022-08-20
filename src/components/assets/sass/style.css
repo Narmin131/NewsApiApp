@@ -176,7 +176,7 @@ body a {
 .newsDetail .right-side h2 {
   color: #3D3D3D;
   font-size: 24px;
-  line-height: 28px;
+  line-height: 29px;
   font-weight: 700;
 }
 
@@ -185,6 +185,13 @@ body a {
   font-size: 16px;
   line-height: 20px;
   font-weight: 400;
+}
+
+.newsDetail .right-side .line {
+  background-color: #DADADA;
+  width: 40%;
+  height: 1px;
+  margin: 17px 0;
 }
 
 .newsDetail .itemfooter {

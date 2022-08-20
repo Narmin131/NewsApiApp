@@ -46,6 +46,7 @@ const NewsDetail = (props) => {
                 </div>
                 <div className="right-side">
                   <h2>{post.title}</h2>
+                  <div className="line"></div>
                   <h3>{post.content}</h3>
                 </div>
                 <div className="itemfooter">
